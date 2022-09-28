@@ -1,4 +1,5 @@
 SE3910 - Software Engineering
+SE4930 - Software Testing
+
 
 CYBR 1500 - Command line Environments
-CYBR 1800

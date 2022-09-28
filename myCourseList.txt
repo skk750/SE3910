@@ -1,4 +1,4 @@
 SE3910 - Software Engineering
-SE3900 - Requirement Engineering
 
+CYBR 1500 - Command line Environments
 CYBR 1800
